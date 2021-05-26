@@ -1,16 +1,22 @@
-# todoapp
+# TODO App
 
-A new Flutter project.
+A simple Flutter App to add Tasks with User Authentication from Firebase.
 
-## Getting Started
+## Features:
+ - Implemented Text Animations
+ - Used Firestore and Firebase Authentication
+ - Realtime Updates in Firebase NoSQL Database
 
-This project is a starting point for a Flutter application.
+## Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
+![](./screenshots/img1.jpg)
+![](./screenshots/img2.jpg)
+![](./screenshots/img3.jpg)
+![](./screenshots/img4.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### TODO's for the future:
+1. Implement Google Sign In
+2. Implement Date and Time Picker
+3. Provide Offline/Online Push Notifications regarding Tasks 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
