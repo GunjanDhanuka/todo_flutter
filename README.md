@@ -1,3 +1,5 @@
+![](https://socialify.git.ci/GunjanDhanuka/todo_flutter/image?forks=1&language=1&logo=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Ficons%2Femoji%2Funicode%2F2611.png&owner=1&stargazers=1&theme=Light)
+
 # ☑️TODO App
 
 A simple Flutter App to add Tasks with User Authentication from Firebase.
