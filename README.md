@@ -1,4 +1,4 @@
-# TODO App
+# ☑️TODO App
 
 A simple Flutter App to add Tasks with User Authentication from Firebase.
 
